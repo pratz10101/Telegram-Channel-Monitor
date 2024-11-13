@@ -29,8 +29,8 @@ This project automates interactions on Telegram, such as joining channels, colle
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/pratz10101/Telegram-Channel-Monitor.git
-   cd Telegram-Channel-Monitor
+   git clone https://github.com/pratz10101/telegram-channel-monitor.git
+   cd telegram-channel-monitor
    ```
 
 2. **Install Requirements**:
